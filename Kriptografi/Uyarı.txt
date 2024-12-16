@@ -1,0 +1,37 @@
+Uyarı:
+Bu aracı kullanırken, şifreleme anahtarınızı güvenli bir şekilde sakladığınızdan emin olun. Anahtar kaybolduğunda veya unutulduğunda, şifreli dosyalarınıza erişim sağlamak mümkün olmayacaktır. Bu yüzden anahtarınızı güvende tutmak çok önemlidir.
+
+Şifreli dosyaları çözerken doğru anahtarı girmediğinizde, dosyalarınız bozulabilir ve geri dönüşümü mümkün olmayabilir. Aracın kullanımında dikkatli olunuz.
+
+Not: Araç sadece dosya şifreleme ve şifre çözme işlemleri için kullanılmalıdır. Aracın başka bir amaçla kullanımı, veri kaybına veya bozulmasına neden olabilir.
+
+Kullanım Kılavuzu:
+Aracın Başlatılması:
+
+Aracı başlatmak için dosyayı çalıştırın.
+Arayüz, şifreleme işlemleri için size 3 ana seçenek sunacaktır: Dosya Seç, Dosyayı Şifrele ve Dosya Şifresini Çöz.
+
+Anahtar Oluşturma:
+
+Şifreleme Anahtarı: Aracı ilk kez kullanıyorsanız, şifreleme işlemi için bir anahtar girmeniz gerekmektedir. Eğer anahtarınız yoksa, sistem size rastgele bir anahtar oluşturacaktır.
+Anahtarınızı güvenli bir şekilde saklayın. Bu anahtar, şifrelendiğiniz dosyaları geri alabilmeniz için gereklidir.
+
+Dosya Seçme:
+
+"Dosya Seç" butonuna tıklayarak şifrelemek veya şifresini çözmek istediğiniz dosyayı seçin.
+Desteklenen dosya türleri arasında metin dosyaları, resimler ve diğer genel dosyalar bulunmaktadır.
+
+Dosya Şifreleme:
+
+Şifreleme için "Dosyayı Şifrele" butonuna tıklayın. Dosyanız şifrelenecek ve .enc uzantısıyla kaydedilecektir.
+Şifreleme başarılı olduktan sonra, yeni dosyanın adını ve şifrelendiğini gösteren bir mesaj alacaksınız.
+
+Dosya Şifresini Çözme:
+
+Şifreli dosyayı çözmek için, doğru şifreleme anahtarını girmeniz gerekmektedir. Şifreleme işleminde kullandığınız anahtarı kullanarak dosyanın şifresini çözebilirsiniz.
+"Dosya Şifresini Çöz" butonuna tıklayın. Şifreli dosyanız .dec uzantısıyla geri gelecektir.
+
+Önemli Notlar:
+
+Anahtarınızı kaybetmeyin: Şifreli dosyanın şifresini çözebilmeniz için doğru anahtara ihtiyacınız vardır. Anahtar kaybolursa, dosyanıza erişim sağlanamaz.
+Dosya şifreleme ve çözme işlemlerini dikkatli bir şekilde yapın. Yanlış bir anahtar veya işlem, dosyanızın bozulmasına neden olabilir.
